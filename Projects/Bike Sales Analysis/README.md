@@ -32,7 +32,7 @@ The final output is an **Excel-based analytical dashboard** that allows users to
 The final interactive dashboard developed in Microsoft Excel is shown below:
 
 <p align="center">
-  <img src="assets/bike%20sales%20dashboard.png" alt="Bike Sales Analysis Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/theaditya24/MS-excel-for-Data-Analytics/main/Projects/Bike%20Sales%20Analysis/assets/bike-sales-dashboard.png" alt="Bike Sales Analysis Dashboard" width="100%">
 </p>
 
 > **Dashboard:** An interactive Excel dashboard summarizing bike purchasing behavior across income, gender, commute distance, age groups, marital status, region, and education.
